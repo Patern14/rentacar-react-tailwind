@@ -1,3 +1,27 @@
+https://rentacar-c7ec0.web.app/
+
+<img src="https://github.com/Patern14/react-pokedex-03/blob/master/screenshots/List%20-%202021-05-01%20102049.png" width="45%" />
+
+<img src="https://github.com/Patern14/react-pokedex-03/blob/master/screenshots/List%20-%202021-05-01%20102049.png" width="45%" />
+
+<img src="https://github.com/Patern14/react-pokedex-03/blob/master/screenshots/List%20-%202021-05-01%20102049.png" width="45%" />
+
+<img src="https://github.com/Patern14/react-pokedex-03/blob/master/screenshots/List%20-%202021-05-01%20102049.png" width="45%" />
+
+<img src="https://github.com/Patern14/react-pokedex-03/blob/master/screenshots/List%20-%202021-05-01%20102049.png" width="45%" />
+
+<img src="https://github.com/Patern14/react-pokedex-03/blob/master/screenshots/List%20-%202021-05-01%20102049.png" width="45%" />
+
+<img src="https://github.com/Patern14/react-pokedex-03/blob/master/screenshots/List%20-%202021-05-01%20102049.png" width="45%" />
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
