@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "rentacar": "rentacar-c7ec0",
+    "default": "rentacar-c7ec0"
+  },
+  "targets": {}
+}
