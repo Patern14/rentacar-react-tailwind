@@ -1,10 +1,10 @@
 https://rentacar-c7ec0.web.app/
 
-<img src="https://github.com/Patern14/rentacar-react-tailwind/blob/master/screenshots/Capture%20d%E2%80%99%C3%A9cran%202021-09-11%20170156.png" width="45%" /> <img src="https://github.com/Patern14/rentacar-react-tailwind/blob/master/screenshots/Capture%20d%E2%80%99%C3%A9cran%202021-09-11%20170344.png" width="45%" />
+<img src="https://github.com/Patern14/rentacar-react-tailwind/blob/master/screenshots/Capture%20d%E2%80%99%C3%A9cran%202021-09-11%20170156.png" width="65%" /> <img src="https://github.com/Patern14/rentacar-react-tailwind/blob/master/screenshots/Capture%20d%E2%80%99%C3%A9cran%202021-09-11%20170344.png" width="30%" />
 
-<img src="https://github.com/Patern14/rentacar-react-tailwind/blob/master/screenshots/Capture%20d%E2%80%99%C3%A9cran%202021-09-11%20170228.png" width="45%" /><img src="https://github.com/Patern14/rentacar-react-tailwind/blob/master/screenshots/Capture%20d%E2%80%99%C3%A9cran%202021-09-11%20170503.png" width="45%" />
+<img src="https://github.com/Patern14/rentacar-react-tailwind/blob/master/screenshots/Capture%20d%E2%80%99%C3%A9cran%202021-09-11%20170228.png" width="65%" /><img src="https://github.com/Patern14/rentacar-react-tailwind/blob/master/screenshots/Capture%20d%E2%80%99%C3%A9cran%202021-09-11%20170503.png" width="30%" />
 
-<img src="https://github.com/Patern14/rentacar-react-tailwind/blob/master/screenshots/Capture%20d%E2%80%99%C3%A9cran%202021-09-11%20170301.png" width="45%" /><img src="https://github.com/Patern14/rentacar-react-tailwind/blob/master/screenshots/Capture%20d%E2%80%99%C3%A9cran%202021-09-11%20170539.png" width="45%" />
+<img src="https://github.com/Patern14/rentacar-react-tailwind/blob/master/screenshots/Capture%20d%E2%80%99%C3%A9cran%202021-09-11%20170301.png" width="65%" /><img src="https://github.com/Patern14/rentacar-react-tailwind/blob/master/screenshots/Capture%20d%E2%80%99%C3%A9cran%202021-09-11%20170539.png" width="30%" />
 
 
 
